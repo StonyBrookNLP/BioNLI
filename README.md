@@ -2,8 +2,8 @@
 ### BioNLI is a biomedical NLI dataset using controllable text generation
 
 
-This is the official page for the paper:
-<a href='https://arxiv.org/abs/2210.14814'> BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples </a>,  
+This is the official page for the paper:\\
+<a href='https://arxiv.org/abs/2210.14814'> BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples </a>  
 accepted at EMNLP2022 (Findings).
  <!-- You can find our paper <a href='https://arxiv.org/abs/2205.04652'> here </a> -->
 
@@ -53,6 +53,11 @@ BioNLI is distributed under <a href="https://creativecommons.org/licenses/by/4.0
 
 Please use the following bibtex entry:
 ```
-
+@article{bastan2022bionli,
+  title={BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples},
+  author={Bastan, Mohaddeseh and Surdeanu, Mihai and Balasubramanian, Niranjan},
+  journal={arXiv preprint arXiv:2210.14814},
+  year={2022}
+}
 ```
 
