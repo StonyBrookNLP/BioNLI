@@ -4,7 +4,8 @@
 
 This is the official page for the paper:
 
-<a href='https://arxiv.org/abs/2210.14814'> BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples </a>,  accepted at EMNLP2022 (Findings).
+<a href='https://arxiv.org/abs/2210.14814'> BioNLI: Generating a Biomedical NLI Dataset Using Lexico-semantic Constraints for Adversarial Examples </a>,  
+accepted at EMNLP2022 (Findings).
  <!-- You can find our paper <a href='https://arxiv.org/abs/2205.04652'> here </a> -->
 
 <!-- Mohaddeseh Bastan, Nishant Shankar, Mihai Surdeanu, Niranjan Balasubramanian.  -->
