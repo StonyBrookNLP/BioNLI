@@ -66,7 +66,7 @@ Please use the following bibtex entry:
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2022.findings-emnlp.374",
     pages = "5093--5104",
-    abstract = "Natural language inference (NLI) is critical in many domains requiring complex decision-making, such as the biomedical domain. We introduce a novel semi-supervised procedure that bootstraps biomedical NLI datasets from positive entailment examples present in abstracts of biomedical publications. We focus on challenging texts where the hypothesis includes mechanistic information such as biochemical interactions between two entities. A key contribution of this work is automating the creation of negative examples that are informative without being simplistic. We generate a range of negative examples using nine strategies that manipulate the structure of the underlying mechanisms both with rules, e.g., flip the roles of the entities in the interaction, and, more importantly, by imposing the perturbed conditions as logical constraints in a neuro-logical decoding system (CITATION).We use this procedure to create a novel dataset for NLI in the biomedical domain, called . The accuracy of neural classifiers on this dataset is in the mid 70s F1, which indicates that this NLI task remains to be solved. Critically, we observe that the performance on the different classes of negative examples varies widely, from 97{\%} F1 on the simple negative examples that change the role of the entities in the hypothesis, to barely better than chance on the negative examples generated using neuro-logic decoding.",
+    
 }
 ```
 
