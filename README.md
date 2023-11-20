@@ -39,9 +39,9 @@ There are two different versions of this dataset. One is the large distribution 
 
 The dataset can be downloaded here:
 
-The full set can be downloaded from <a href="https://drive.google.com/drive/folders/1-wNvAYs4ULJFNkeVHaUJM3U7slX-vtiB?usp=sharing">here</a>.
+The full set can be downloaded from <a href="https://drive.google.com/drive/folders/172mD0VQ0OcW33aD0AnO9BpQExFjlpLHK?usp=sharing">here</a>.
 
-The balanced set can be downloaded from <a href="https://drive.google.com/drive/folders/187W4RCk1cJnKKO95NPljxZYelUgMOHf8?usp=sharing">here</a>. 
+The balanced set can be downloaded from <a href="https://drive.google.com/drive/folders/1-zNfaoDdszvu8cTCRqx9s1EWM2qZ0wcI?usp=sharing">here</a>. 
 
 To access the test set please contact <a href = "mailto: mbastan@cs.stonybrook.edu">me</a>.
 
